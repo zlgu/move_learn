@@ -1,0 +1,5 @@
+[package]
+name = "BasicCoin"
+version = "0.0.0"
+[addresses]
+SomeNamedAddress = "0xC0FFEE"
