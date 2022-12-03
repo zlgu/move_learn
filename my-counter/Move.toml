@@ -1,0 +1,10 @@
+[package]
+name = "my-counter"
+version = "0.0.0"
+
+[addresses]
+StarcoinFramework = "0x1"
+MyCounterAddr = "0xb12fee8ec8d8c419023838ca7955fbbf"
+
+[dependencies]
+StarcoinFramework = {git = "https://github.com/starcoinorg/starcoin-framework.git", rev="cf1deda180af40a8b3e26c0c7b548c4c290cd7e7"}
